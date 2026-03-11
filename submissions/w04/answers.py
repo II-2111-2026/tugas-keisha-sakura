@@ -83,5 +83,5 @@ menggunakan Hukum Probabilitas Total."""
 def q12() -> float:
     """[Numeric] Dari soal nomor 11, hitung P(A|B) menggunakan Teorema Bayes (Gunakan
 3 desimal)."""
-    return 0.368
+    return 0.429
 
