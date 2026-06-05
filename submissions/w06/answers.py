@@ -58,7 +58,7 @@ A) Binomial.
 B) Poisson.
 C) Geometrik.
 D) Eksponensial."""
-    return "C"
+    return "B"
 
 def q08() -> float:
     """[Numeric] Jika X Bn(4,0,5), hitung P(X = 2)."""
@@ -71,7 +71,7 @@ def q09() -> float:
 
 def q10() -> float:
     """[Numeric] Hitung variansi dari variabel acak X Bn(100,0,1)."""
-    return 0.0
+    return 9.0
 
 def q11() -> float:
     """[Numeric] Berapakah nilai maksimum yang mungkin dari variabel acak X Bn(10,0,5)?"""
